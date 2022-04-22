@@ -1,6 +1,7 @@
 POSIXメッセージキューの実装コードまとめ
 
 【環境】
+
 ・Windows 10 Pro 上で Oracle VM VirtualBox の仮想環境を構築
 
 ・Ubuntu(64bit)の環境は以下
